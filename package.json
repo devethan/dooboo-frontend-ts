@@ -16,7 +16,7 @@
   "dependencies": {
     "i18n-js": "^3.5.1",
     "prettier": "^1.19.1",
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.1.2",
